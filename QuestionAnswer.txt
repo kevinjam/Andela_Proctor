@@ -1,0 +1,141 @@
+
+KEVIN JANVIER
+
+HOME
+HELP
+ASSESSMENTS
+ Introduction to Computer Science
+ QUIZ 1 
+ Introduction to Programming
+ QUIZ 2 
+ HST2: INTRODUCTION TO PROGRAMMING LAB 
+ Object Oriented Programming
+ QUIZ 3 
+ HST2: OBJECT ORIENTED PROGRAMMING LAB 
+ Data Structures
+ QUIZ 4 
+ HST2: DATA STRUCTURES LAB 
+ Algorithms
+ QUIZ 5 
+ HST2: ALGORITHMS LAB 
+ Recursion
+ QUIZ 6 
+ HST2: RECURSION LAB 
+ Sorting and Searching
+ QUIZ 7 
+ Software Engineering
+ QUIZ 8 
+ The Internet
+ QUIZ 9 
+ Web Programming
+ QUIZ 10 
+ HST2: WEB PROGRAMMING LAB 
+
+0 % completed
+
+Home Study Test 2
+The curriculum includes everything that’s required to fully grasp the fundamentals of computer science, and gain a thorough understanding of computer science best practices through Python. By covering this curriculum, you will be comfortable with computing concepts -- empowering you to engage with a vibrant community of like-minded learners with all levels of experience.
+
+
+QUIZ 1
+This section will test understanding of the basic computer science concepts.
+
+1
+Which of the following statements describes Computer Science?
+
+
+The study of problems with solutions
+
+The study of problems with no solutions
+
+The study of algorithms
+
+All of the above
+
+2
+In which format is data stored in a computer?
+
+
+Hard disk
+
+Binary
+
+Decimal
+
+Electricity
+
+3
+Which of the following aspects of https://proctor.andela.com best demonstrates abstraction?
+
+
+You need a username and password to log in
+
+You need internet access to use it
+
+You don’t need to know how the website was made to use it
+
+You have multiple sections to complete
+
+4
+What is an algorithm?
+
+
+A piece of code that is meant to solve only hard problems
+
+A random list of instructions
+
+A long and complicated block of code
+
+A set of commands that lead to a solution for a problem
+
+5
+Which of the following industries does NOT need computer scientists?
+
+
+Medical
+
+Banking
+
+Education
+
+Space Exploration
+
+None of the above
+
+6
+What is the metric for analyzing the worst-case scenario of algorithms in terms of scalability and efficiency called?
+
+
+Parallelism
+
+Big Data
+
+Recursion
+
+Big O Notation
+
+7
+Which of the following statements IS TRUE about Computer Scientists?
+
+
+They design software but not computers
+
+They apply innovation and expertise to complex problems
+
+They are just programmers
+
+All of the above
+
+8
+The act of making something happen on its own, i.e. without any external help or human interference, is called?
+
+
+Engineering
+
+Abstraction
+
+Automation
+
+Simulation
+
+ SUBMIT

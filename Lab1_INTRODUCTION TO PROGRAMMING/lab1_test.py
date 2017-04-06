@@ -1,12 +1,3 @@
-HST2: INTRODUCTION TO PROGRAMMING LAB
-Write a program that checks if a word supplied as the argument is an Isogram. An Isogram is a word in which no letter occurs more than once.
-
-Create a method called is_isogram that takes one argument, a word to test if it's an isogram. This method should return a tuple of the word and a boolean indicating whether it is an isogram.
-
-If the argument supplied is an empty string, return the argument and False: (argument, False). If the argument supplied is not a string, raise a TypeError with the message 'Argument should be a string'.
-
-
-
 from unittest import TestCase
 
 class IsogramTestCases(TestCase):
